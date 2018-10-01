@@ -15,5 +15,5 @@ CREATE TABLE `employee` (
   `employee_salary` double NOT NULL,
   `employee_age` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 ````
